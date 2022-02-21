@@ -33,9 +33,9 @@
 
 [3 開始寫python](#3-開始寫python)
 
-[4 python windows Desktop Application](#4-python windows Desktop Application)
+[4 python windows Desktop Application](#4-python-windows-Desktop-Application)
 
-[5 python web Application](#5-python web Application)
+[5 python web Application](#5-python-web-Application)
 
 [6 example](#6-example)
 
