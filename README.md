@@ -89,7 +89,6 @@
 
 
 
-Python主要有以下五大主要應用   
-https://www.gushiciku.cn/pl/2y7A/zh-hk
+[Python主要有以下五大主要應用](https://www.gushiciku.cn/pl/2y7A/zh-hk)
  
 
