@@ -27,16 +27,17 @@
         只使用二者之一,都是沒有問題的.
 
 
+[1 建立開發環境](#1-建立開發環境)
 
-    
+[2 windows開發工具下載安裝](#2-windows開發工具下載安裝)
 
+[3 開始寫python](#3-開始寫python)
 
+[4 python windows Desktop Application](#4-python windows Desktop Application)
 
+[5 python web Application](#5-python web Application)
 
-
-
-
-
+[6 example](#6-example)
 
 ---
 
