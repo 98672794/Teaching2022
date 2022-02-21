@@ -25,7 +25,16 @@
         來區分代碼塊之間的層次。
         pyhton對這點的明確要求是不要混合使用4個空格和tab鍵.
         只使用二者之一,都是沒有問題的.
- 
+
+
+
+    Python主要有以下五大主要應用
+    https://www.gushiciku.cn/pl/2y7A/zh-hk
+    
+    
+    
+---
+
 # 1 建立開發環境
     windows新帳號
 
