@@ -92,3 +92,4 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 [Python主要有以下五大主要應用](https://www.gushiciku.cn/pl/2y7A/zh-hk)
  
 
+[firstFunction](https://t.codebug.vip/questions-2459684.htm)
