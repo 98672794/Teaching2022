@@ -96,7 +96,9 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ---
 ---
 ---
-    
+   
+   
+[顯示副檔名](https://blog.gtwang.org/windows/windows-10-show-filename-extension-tutorial/)|
 [Visual Studio Code (VSCode) v1.57 – 最新版下載+教學](https://sumofents.net/visual-studio-code/)|
 [查作業系統](https://iqmore.tw/check-windows-10-version-number)|
 [【安裝教學】新手踏入Python第零步-安裝Python3.9](https://www.codingspace.school/blog/2021-04-07)|
