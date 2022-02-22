@@ -88,7 +88,9 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     但只要照著我們的步驟安裝就好囉，很大部份的觀念不需急在一開始全部了解，
     不管是MAC或是Windows都可以照本文安裝完畢呦！
 
-## Edge
+## [Edge]
+
+-
 
 ## [python](https://www.python.org/downloads/)
 
@@ -108,8 +110,9 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     Recommended
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/By-O4X9g-wI/0.jpg)](https://www.youtube.com/watch?v=By-O4X9g-wI)
-  
-    
+
+-
+
 ## VScode
 
 
