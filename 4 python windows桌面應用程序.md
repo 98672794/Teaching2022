@@ -9,7 +9,7 @@
 
 # 封裝.py為.exe
 
-[...](https://zhuanlan.zhihu.com/p/162237978)
+[pyinstaller](https://zhuanlan.zhihu.com/p/162237978)
     
    
     
