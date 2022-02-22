@@ -158,7 +158,7 @@ Windows + Pause
 ---
 ---
     
-
+[查作業系統](https://iqmore.tw/check-windows-10-version-number)|
 [【安裝教學】新手踏入Python第零步-安裝Python3.9](https://www.codingspace.school/blog/2021-04-07)|
 [YouTube on GitHub ](https://stackoverflow.com/a/16079387/8008799)|
 [建立新windows帳戶](https://support.microsoft.com/zh-hk/windows/%E5%9C%A8-windows-%E4%B8%AD%E5%BB%BA%E7%AB%8B%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%80%85%E5%B8%B3%E6%88%B6%E6%88%96%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E5%B8%B3%E6%88%B6-20de74e0-ac7f-3502-a866-32915af2a34d)|
