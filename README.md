@@ -79,6 +79,8 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_6soIpUKkAU/0.jpg)](https://www.youtube.com/watch?v=_6soIpUKkAU)
 
+---
+
 # 2 windows開發工具下載安裝
 
     在你選擇使用Python當入門的程式語言後，遇到的問題就會是，該怎麼開始寫，
@@ -90,9 +92,21 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 ## [python](https://www.python.org/downloads/)
 
-    從Python官網的下載頁面下載安裝檔
-    點選紅框中的下載按鈕即可(目前最新穩定版是3.9.4)，若您的版本較新，也是點選相同的按鈕進行下載
+    1 查有沒 Python
+   
+    2 查作業系統
+        Windows + Pause
+     
+    3 從Python官網的下載頁面下載安裝檔
+        點選紅框中的下載按鈕即可(目前最新穩定版是3.9.4)，若您的版本較新，也是點選相同的按鈕進行下載
     
+    4 從Python官網首頁Recommended
+        ctrl + F
+        Recommended
+
+    5 從Python官網首頁WindowsInstaller 
+        ctrl + F
+        Windows installer
     
     
     
@@ -104,7 +118,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ########1
     
     
-    
+---
 
 # 3 開始寫python
     寫 program 流程簡介, 
@@ -114,12 +128,16 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
         Google docs
     debug
     
+---
+
 # 4 python windows Desktop Application
  
- 
+---
+
 # 5 python web Application
     database
 
+---
 
 # 6 example
     如何在 Python 中加載 Google 文檔的內容
