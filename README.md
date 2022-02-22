@@ -77,7 +77,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_6soIpUKkAU/0.jpg)](https://www.youtube.com/watch?v=_6soIpUKkAU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TukYQ4RDyzk/0.jpg)](https://www.youtube.com/watch?v=TukYQ4RDyzk)
 
 ---
 
