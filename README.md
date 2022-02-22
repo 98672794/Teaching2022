@@ -49,7 +49,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 [3 開始寫python](./3%20開始寫python.md)
 
-[4 python windows Desktop Application](#4-python-windows-Desktop-Application)
+[4 python windows桌面應用程序](./4%20python%20windows桌面應用程序.md)
 
 [5 python web Application](#5-python-web-Application)
 
@@ -64,19 +64,6 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ---
 
 ---
-
-# 3 開始寫python
-    寫 program 流程簡介, 
-    import 函式庫
-        os
-        database
-        Google docs
-    debug
-    
----
-
-# 4 python windows Desktop Application
- 
 ---
 
 # 5 python web Application
