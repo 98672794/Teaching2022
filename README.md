@@ -92,7 +92,9 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 ## [python](https://www.python.org/downloads/)
 
-    1 查有沒 Python
+### 1 查有沒 Python
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XRH6IHAhB4s/0.jpg)](https://www.youtube.com/watch?v=XRH6IHAhB4s)
+  
    
     2 查作業系統
         Windows + Pause
