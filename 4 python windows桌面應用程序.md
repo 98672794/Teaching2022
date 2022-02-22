@@ -2,9 +2,9 @@
 
 
 
-# python windows桌面應用程序
+# 執行python windows桌面程序
 
-    點兩下.py文件即可執行.py內的python程式碼
+    點兩下.py文件即可執行
 
 
 # 封裝.py為.exe
