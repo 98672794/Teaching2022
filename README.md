@@ -97,24 +97,18 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
   
    
 ### 2 查作業系統
-Windows + Pause
-
+    Windows + Pause
 [![Windows查作業系統](/img/WindowsPause.jfif)]
-     
-    3 從Python官網的下載頁面下載安裝檔
-        點選紅框中的下載按鈕即可(目前最新穩定版是3.9.4)，若您的版本較新，也是點選相同的按鈕進行下載
-    
-    4 從Python官網首頁Recommended
-        ctrl + F
-        Recommended
 
-    5 從Python官網首頁WindowsInstaller 
-        ctrl + F
-        Windows installer
-        
 
-    
-    
+### 3 從Python官網的下載頁面下載安裝檔
+    點選紅框中的下載按鈕即可(目前最新穩定版是3.9.4)，若您的版本較新，也是點選相同的按鈕進行下載
+### 4 從Python官網首頁Recommended
+    ctrl + F
+    Recommended
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/By-O4X9g-wI/0.jpg)](https://www.youtube.com/watch?v=By-O4X9g-wI)
+  
     
 ## VScode
 
