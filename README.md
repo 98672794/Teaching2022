@@ -99,7 +99,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ### 2 查作業系統
 Windows + Pause
 
-[![Windows查作業系統](https://www.bing.com/images/blob?bcid=S12UZ2r3WNkDzw)]
+[![Windows查作業系統](/img/WindowsPause.jfif)]
      
     3 從Python官網的下載頁面下載安裝檔
         點選紅框中的下載按鈕即可(目前最新穩定版是3.9.4)，若您的版本較新，也是點選相同的按鈕進行下載
