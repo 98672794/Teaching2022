@@ -96,8 +96,14 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     
     
     
-    VScode
+## VScode
 
+
+
+
+########
+    
+    
     
 
 # 3 開始寫python
