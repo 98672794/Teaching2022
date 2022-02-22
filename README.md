@@ -36,9 +36,15 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 ---
 
-[1 建立開發環境](#1-建立開發環境)
+[1 建立開發環境](#1-建立開發環境) 
+
+    - 建立新windows帳戶
 
 [2 windows開發工具下載安裝](#2-windows開發工具下載安裝)
+
+    - Edge
+    - python
+    - VScode
 
 [3 開始寫python](#3-開始寫python)
 
@@ -123,9 +129,6 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z303bRS2SVI/0.jpg)](https://www.youtube.com/z303bRS2SVI)
 
 
-########1
-    
-    
 ---
 
 # 3 開始寫python
