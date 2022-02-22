@@ -71,8 +71,6 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     
     4 輸入使用者名稱、密碼或密碼提示，或選擇有關安全性的問題，然後選取 [下一步]。
     
-    https://support.microsoft.com/zh-hk/windows/%E5%9C%A8-windows-%E4%B8%AD%E5%BB%BA%E7%AB%8B%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%80%85%E5%B8%B3%E6%88%B6%E6%88%96%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E5%B8%B3%E6%88%B6-20de74e0-ac7f-3502-a866-32915af2a34d
- 
 
 
 # 2 windows開發工具下載安裝
@@ -110,6 +108,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ---
     
 
+[建立新windows帳戶](https://support.microsoft.com/zh-hk/windows/%E5%9C%A8-windows-%E4%B8%AD%E5%BB%BA%E7%AB%8B%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%80%85%E5%B8%B3%E6%88%B6%E6%88%96%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E5%B8%B3%E6%88%B6-20de74e0-ac7f-3502-a866-32915af2a34d)
 [Python主要有以下五大主要應用](https://www.gushiciku.cn/pl/2y7A/zh-hk)
  
 
