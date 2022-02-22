@@ -88,7 +88,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     但只要照著我們的步驟安裝就好囉，很大部份的觀念不需急在一開始全部了解，
     不管是MAC或是Windows都可以照本文安裝完畢呦！
 
-## [Edge]
+## [Edge](https://www.microsoft.com/zh-tw/edge)
 
 -
 
@@ -113,7 +113,10 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 -
 
-## VScode
+## [VScode](https://code.visualstudio.com/download)
+    Visual Studio Code 是一款由微軟開發、同時支援 Windows、Linux、macOS…等多平台的「免費程式碼編輯器」，
+    內建支援「JavaScript、TypeScript、Node.js」以及豐富的擴展生態系統：「C++、C＃、Java、Python、PHP、Go」…等語言。
+    根據維基百科的敘述，在 2019 年的 Stack Overflow 組織的開發者調研中，VSCode 是最受歡迎的軟體。
 
 
 
@@ -155,6 +158,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ---
 ---
     
+[Visual Studio Code (VSCode) v1.57 – 最新版下載+教學](https://sumofents.net/visual-studio-code/)|
 [查作業系統](https://iqmore.tw/check-windows-10-version-number)|
 [【安裝教學】新手踏入Python第零步-安裝Python3.9](https://www.codingspace.school/blog/2021-04-07)|
 [YouTube on GitHub ](https://stackoverflow.com/a/16079387/8008799)|
