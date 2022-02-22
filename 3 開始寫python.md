@@ -136,7 +136,15 @@
 
 
 
+# python windows桌面應用程序
 
+    點兩下.py文件即可執行.py內的python程式碼
+
+
+# debug
+
+    # 寫在這裡
+    內的代碼如錯誤會用 _Error 顯示
 
     
     
