@@ -46,7 +46,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     - python
     - VScode
 
-[3 開始寫python](#3-開始寫python)
+[3 開始寫python](./3%20開始寫python.md)
 
 [4 python windows Desktop Application](#4-python-windows-Desktop-Application)
 
@@ -57,7 +57,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 
 -
 
-[下一頁](./1%20建立開發環境.md) 
+[1 建立開發環境](./1%20建立開發環境.md) 
 ---
 
 ---
