@@ -80,9 +80,24 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_6soIpUKkAU/0.jpg)](https://www.youtube.com/watch?v=_6soIpUKkAU)
 
 # 2 windows開發工具下載安裝
-    python
+
+    在你選擇使用Python當入門的程式語言後，遇到的問題就會是，該怎麼開始寫，
+    答案就是安裝環境囉，光是「環境安裝」這個環節就讓一堆人覺得很複雜了，
+    但只要照著我們的步驟安裝就好囉，很大部份的觀念不需急在一開始全部了解，
+    不管是MAC或是Windows都可以照本文安裝完畢呦！
+
+## Edge
+
+## python
+
+    從Python官網的下載頁面下載安裝檔
+    點選紅框中的下載按鈕即可(目前最新穩定版是3.9.4)，若您的版本較新，也是點選相同的按鈕進行下載
+    
+    
+    
+    
     VScode
-    Edge
+
     
 
 # 3 開始寫python
@@ -114,7 +129,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ---
     
 
-
+[【安裝教學】新手踏入Python第零步-安裝Python3.9](https://www.codingspace.school/blog/2021-04-07)|
 [YouTube on GitHub ](https://stackoverflow.com/a/16079387/8008799)|
 [建立新windows帳戶](https://support.microsoft.com/zh-hk/windows/%E5%9C%A8-windows-%E4%B8%AD%E5%BB%BA%E7%AB%8B%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%80%85%E5%B8%B3%E6%88%B6%E6%88%96%E7%B3%BB%E7%B5%B1%E7%AE%A1%E7%90%86%E5%93%A1%E5%B8%B3%E6%88%B6-20de74e0-ac7f-3502-a866-32915af2a34d)|
 [Python主要有以下五大主要應用](https://www.gushiciku.cn/pl/2y7A/zh-hk)|
