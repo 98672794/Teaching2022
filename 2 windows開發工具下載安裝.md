@@ -40,3 +40,6 @@
     https://sumofents.net/visual-studio-code/
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z303bRS2SVI/0.jpg)](https://www.youtube.com/z303bRS2SVI)
 
+
+[3 開始寫python](./3%20開始寫python.md)
+
