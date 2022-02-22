@@ -89,6 +89,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     不管是MAC或是Windows都可以照本文安裝完畢呦！
 
 ## [Edge](https://www.microsoft.com/zh-tw/edge)
+    預設已裝
 
 -
 
@@ -118,7 +119,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     內建支援「JavaScript、TypeScript、Node.js」以及豐富的擴展生態系統：「C++、C＃、Java、Python、PHP、Go」…等語言。
     根據維基百科的敘述，在 2019 年的 Stack Overflow 組織的開發者調研中，VSCode 是最受歡迎的軟體。
 
-https://sumofents.net/visual-studio-code/
+    https://sumofents.net/visual-studio-code/
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z303bRS2SVI/0.jpg)](https://www.youtube.com/z303bRS2SVI)
 
 
