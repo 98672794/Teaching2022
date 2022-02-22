@@ -75,7 +75,7 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     
     5 輸入使用者名稱、密碼或密碼提示，或選擇有關安全性的問題，然後選取 [下一步]。
     
-
+    6 轉換帳號
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TukYQ4RDyzk/0.jpg)](https://www.youtube.com/watch?v=TukYQ4RDyzk)
 
@@ -107,6 +107,8 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
     5 從Python官網首頁WindowsInstaller 
         ctrl + F
         Windows installer
+        
+
     
     
     
