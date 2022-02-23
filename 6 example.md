@@ -4,6 +4,9 @@
 
 [在Google API Console新增一個專案](https://console.developers.google.com/)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zcJe5Isfhng/0.jpg)](https://www.youtube.com/watch?v=zcJe5Isfhng)
+
+-
 
 搜尋並啟用
   
