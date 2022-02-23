@@ -25,17 +25,25 @@
 
 ## 建立憑證
 
-    在 Google Cloud Platform 的搜尋中
+    再次在 Google Cloud Platform 的搜尋中
     Google Sheets API    
-    按 建立憑證
+    按 管理
+    憑證
+    建立憑證
     
     
-    憑證類型 如圖回答
+    搜尋並啟用 Google Sheets API
+    應用程式資料
+    不，我不會使用任何一項憑證
+    下一步
 
-![IMAGE ALT TEXT HERE](https://1.bp.blogspot.com/-jYn0_38wAJU/Xz6MVRsE5nI/AAAAAAAAD7M/q-0GcTss_dkuxEmTv0gboSEAFLMLCjxoQCLcBGAsYHQ/s740/50.PNG)
+    服務帳戶名稱 (隨意,存取權授時顯示)
+    服務帳戶說明 (隨意)
+    建立並繼續
 
-
-
+    
+    擁有者
+    繼續
 
 
 
