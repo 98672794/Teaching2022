@@ -25,9 +25,14 @@
 
 ## 建立憑證
 
-    如圖回答
+    在 Google Cloud Platform 的搜尋中
+    Google Sheets API    
+    按 建立憑證
+    
+    
+    憑證類型 如圖回答
 
-[![IMAGE ALT TEXT HERE](https://1.bp.blogspot.com/-jYn0_38wAJU/Xz6MVRsE5nI/AAAAAAAAD7M/q-0GcTss_dkuxEmTv0gboSEAFLMLCjxoQCLcBGAsYHQ/s740/50.PNG)]
+![IMAGE ALT TEXT HERE](https://1.bp.blogspot.com/-jYn0_38wAJU/Xz6MVRsE5nI/AAAAAAAAD7M/q-0GcTss_dkuxEmTv0gboSEAFLMLCjxoQCLcBGAsYHQ/s740/50.PNG)
 
 
 
