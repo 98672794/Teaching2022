@@ -63,6 +63,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
 --- 
 
 [啟用Google Sheet API](https://www.learncodewithmike.com/2020/08/python-write-to-google-sheet.html)
