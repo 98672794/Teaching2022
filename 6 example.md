@@ -2,7 +2,7 @@
 # 6.1 如何將 Python 連接到 Google 表格
 
 
-[在Google API Console新增一個專案](https://console.developers.google.com/) <-- 點網址入 新增專案
+## [在Google API Console新增一個專案](https://console.developers.google.com/) <-- 點網址入 新增專案
 
     寫地區資料
     按選取專案
@@ -13,7 +13,7 @@
 
 -
 
-搜尋並啟用 Google Sheets API
+## 搜尋並啟用 Google Sheets API
 
     在 Google Cloud Platform 的搜尋中
     Google Sheets API
@@ -22,3 +22,25 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KObOPFWQoPk/0.jpg)](https://www.youtube.com/watch?v=KObOPFWQoPk)
 
 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+[啟用Google Sheet API](https://www.learncodewithmike.com/2020/08/python-write-to-google-sheet.html)
