@@ -13,7 +13,7 @@
 
 -
 
-搜尋並啟用
+搜尋並啟用 Google Sheets API
 
     在 Google Cloud Platform 的搜尋中
     Google Sheets API
