@@ -7,7 +7,8 @@
     寫地區資料
     按選取專案
     新增專案 名隨意
-    確定後等 選取專案 轉為你專案名即OK
+    確定
+    等 選取專案 轉為你專案名即OK
     
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zcJe5Isfhng/0.jpg)](https://www.youtube.com/watch?v=zcJe5Isfhng)
 
