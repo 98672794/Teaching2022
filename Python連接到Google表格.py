@@ -131,27 +131,69 @@ def Start2022():
             ****************
             請選擇功能
 
-            0 ====== 更新工作表名稱
+            00 ====== 更新工作表名稱
             1 ====== 讀取工作表
-            2 ====== 寫入工作表
-            3 ====== 隱藏工作表
+            2 ====== 寫入一格內容
+            3 ====== 寫入一直欄
+            4 ====== 刪除工作表內容
+            05 ====== 隱藏工作表
 
             '''
         while True: # 請選擇動作loo
+            print('##################')
             print('直在編輯:',wks)
             print(Talk)
             Goto = input('請選擇動作\n')
 
 
-            # 寫入工作表
+
+
+
+            # 讀取工作表
+            if Goto == '1':
+                # 讀取
+                print('將會顯示 2列及 3欄的內容')
+                print(wks.get_row(2,include_tailing_empty=False))
+                print(wks.get_col(3,include_tailing_empty=False))
+                continue
+
+
+            # 寫入一格內容
             if Goto == '2':
+                # 寫入一格內容
+                print("將會在A1,A2,A3 寫入 '5','10','=A1+A2'")
+                wks.update_value('A1',5)      #  Store  5 at A1
+                wks.update_value('A2',10)     #  Store 10 at A2
+                wks.update_value('A3','=A1+A2',True) # Add data at A1 and A2 and store at A3
+                continue
+
+
+
+
+            # 寫入一直欄
+            if Goto == '3':
                 # 寫入
                 print("將會在欄數由上至下寫入'ab','cd','ef'")
-                直欄數 = input('請填寫直欄數:A欄=1,B欄=2...\n')
-                wks.update_col(直欄數,['ab','cd','ef']) # add list to 2nd column
-                break
+
+                try:    # 只可填寫數字loop
+                    直欄數 = input('請填寫直欄數:A欄=1,B欄=2...\n')
+                except:
+                    print('只可填寫數字')
+                    continue
+
+                wks.update_col(int(直欄數),['ab','cd','ef']) # add list to 2nd column
+                continue
 
 
+
+
+            # 刪除工作表內容
+            if Goto == '4':
+                # 寫入
+                刪除格 = input("請填寫要刪除內容的儲存格,如:\n A1,B10 = 刪除A1至B10\n")
+                刪除格a = 刪除格.split(',')  # 用,分隔input data
+                wks.clear(刪除格a[0],刪除格a[1]) # clear data from grid B3 to C5
+                continue
 
 
         os.system("pause") 
