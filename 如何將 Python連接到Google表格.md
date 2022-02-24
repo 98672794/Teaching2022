@@ -88,7 +88,7 @@
     
    在  
    import 寫在這裡,import 寫在這裡同上一樣 
-   增加
+   兩個地方都要增加
     
     import pygsheets 
 
