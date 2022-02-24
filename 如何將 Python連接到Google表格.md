@@ -92,10 +92,12 @@
 
 ### import
 
-   在 Start_2022PyT.py 找到
-        import 寫在這裡,
-        import 寫在這裡同上一樣 
-   兩個地方都要增加
+在 Start_2022PyT.py 找到
+   
+    import 寫在這裡,
+    import 寫在這裡同上一樣 
+ 
+兩個地方都要增加
     
     import pygsheets 
 
