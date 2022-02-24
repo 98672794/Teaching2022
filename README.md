@@ -63,9 +63,20 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 [5 python web Application](#5-python-web-Application)
 
 [6 example](#6-example)
+    
+   -  [如何將 Python 連接到 Google 表格](如何將%20Python連接到Google表格.md)
 
 
--
+----
+----
+----
+----
+----
+----
+----
+----
+----
+----
 
 [1 建立開發環境](./1%20建立開發環境.md) 
 ---
@@ -81,6 +92,8 @@ pyhton對這點的明確要求是不要混合使用4個空格和tab鍵。
 ---
 
 # 6 example
+
+
     如何在 Python 中加載 Google 文檔的內容
     將 Google 文檔轉換為 Microsoft Word 文檔
     如何將 Python 連接到 Google 表格
