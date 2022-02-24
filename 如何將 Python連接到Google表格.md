@@ -67,12 +67,12 @@
     選權限
     傳送
 
-    複製 Google Sheet(試算表)網址
+    複製 Google Sheet(試算表)網址 備用
     
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/000/0.jpg)](https://www.youtube.com/watch?v=000)
 
-
-
+-
 
 
 
