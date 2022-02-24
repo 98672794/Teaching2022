@@ -96,6 +96,4 @@
 ---
 --- 
 
-[啟用Google Sheet API](https://www.learncodewithmike.com/2020/08/python-write-to-google-sheet.html)|
-
-[在 Google Sheet 裡面，授權給剛剛在 GCP 申請的服務帳號 ID](https://www.maxlist.xyz/2018/09/25/python_googlesheet_crud/)|
+[啟用Google Sheet API](https://www.learncodewithmike.com/2020/08/python-write-to-google-sheet.html)|[在 Google Sheet 裡面，授權給剛剛在 GCP 申請的服務帳號 ID](https://www.maxlist.xyz/2018/09/25/python_googlesheet_crud/)|
