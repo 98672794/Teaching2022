@@ -80,11 +80,17 @@
 -
 
 
-## [Python連接到Google表格.py]()
+## Python連接到Google表格
 
    下載[Start_2022PyT.py](https://raw.githubusercontent.com/98672794/Teaching2022/main/Start_2022PyT.py)並保存在您的工作文件夾中(和金鑰JSON同個)
    
-    用VScode打開
+  用VScode打開
+    
+   在  
+   import 寫在這裡,import 寫在這裡同上一樣 
+   增加
+    
+    import pygsheets 
 
 
    - [完整Python連接到Google表格.py](https://raw.githubusercontent.com/98672794/Teaching2022/main/Python%E9%80%A3%E6%8E%A5%E5%88%B0Google%E8%A1%A8%E6%A0%BC.py)
