@@ -105,19 +105,62 @@ def Start2022():
         # 連接到 Google 表格
         gc = pygsheets.authorize(service_file=Your金鑰json)     # gc 這邊是告訴 Python 我們的授權金鑰 json 放置的位子
         sht = gc.open_by_url(YourGoogleSheetUrl)        # 利用 Python 開啟 GoogleSheet
-
-        print('##################\n文件\n',YourGoogleSheetUrl,'\n內的工作表目錄\n')
+        print('##################')
+        print('文件')
+        print(YourGoogleSheetUrl)
+        print('內的工作表=')
         print(sht.worksheets())     # 取得此GoogleSheet內的工作表
+        print('##################')
+
+
+
+        # 取得 Sheet 清單
+        while True: # 不能空值loo
+            Sheet清單序號 = input('請填寫工作表名')
+            if Sheet清單序號 == '': continue    # 不能空值
+            break
+        wks = sht.worksheet_by_title(Sheet清單序號)
 
 
 
 
 
 
+        # index2
+        Talk = '''
+            ****************
+            請選擇功能
+
+            0 ====== 更新工作表名稱
+            1 ====== 讀取工作表
+            2 ====== 寫入工作表
+            3 ====== 隱藏工作表
+
+            '''
+        while True: # 請選擇動作loo
+            print('直在編輯:',wks)
+            print(Talk)
+            Goto = input('請選擇動作\n')
+
+
+            # 寫入工作表
+            if Goto == '2':
+                # 寫入
+                print("將會在欄數由上至下寫入'ab','cd','ef'")
+                直欄數 = input('請填寫直欄數:A欄=1,B欄=2...\n')
+                wks.update_col(直欄數,['ab','cd','ef']) # add list to 2nd column
+                break
 
 
 
 
+        os.system("pause") 
+        #讀取
+        A1 = wks.cell(['b4:b6'])
+        A1.value
+        print('##################')
+        print(A1.value)
+        print('##################')
 
 
 
@@ -230,7 +273,11 @@ def _Error(e):
 if __name__ == "__main__":
     print(Start2022())
     os.system("pause") 
-    
+
+
+
+# Opening the file and adding data https://www.plus2net.com/python/pygsheets.php
+# https://www.maxlist.xyz/2018/09/25/python_googlesheet_crud/
 ##################### / Start_2022PyT ################################
 
 
