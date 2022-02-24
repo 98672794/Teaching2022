@@ -59,6 +59,9 @@
 
 ## 授權Google Sheet給服務帳戶
 
+    Google Cloud Platform 點 憑證
+    複製 剛建的服務帳戶的電子郵件 備用
+
     打開你要操作的Google試算表
     共用
     
