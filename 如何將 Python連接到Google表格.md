@@ -86,7 +86,10 @@
    
   用VScode打開
   
-  
+---
+
+
+# [Python代碼編寫:連接到Google表格]()
   
 ## Python代碼編寫:連接到Google表格
 
@@ -97,7 +100,7 @@
     import 寫在這裡,
     import 寫在這裡同上一樣 
  
-兩個地方都要增加
+兩個地方下都要增加
     
     import pygsheets 
 
