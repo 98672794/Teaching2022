@@ -14,7 +14,7 @@
 
 -
 
-# .py內容
+# [.py內容](https://raw.githubusercontent.com/98672794/Teaching2022/main/Start_2022PyT.py)
 
 
 
