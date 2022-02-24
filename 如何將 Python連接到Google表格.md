@@ -85,9 +85,16 @@
    下載[Start_2022PyT.py](https://raw.githubusercontent.com/98672794/Teaching2022/main/Start_2022PyT.py)並保存在您的工作文件夾中(和金鑰JSON同個)
    
   用VScode打開
-    
-   在  
-   import 寫在這裡,import 寫在這裡同上一樣 
+  
+  
+  
+## Python代碼編寫:連接到Google表格
+
+### import
+
+   在 Start_2022PyT.py 找到
+        import 寫在這裡,
+        import 寫在這裡同上一樣 
    兩個地方都要增加
     
     import pygsheets 
