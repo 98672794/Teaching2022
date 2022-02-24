@@ -131,12 +131,14 @@ def Start2022():
             ****************
             請選擇功能
 
-            00 ====== 更新工作表名稱
+            0 ====== 更新工作表名稱
             1 ====== 讀取工作表
             2 ====== 寫入一格內容
             3 ====== 寫入一直欄
             4 ====== 刪除工作表內容
-            05 ====== 隱藏工作表
+            5 ====== 隱藏工作表
+
+            將Google文檔轉換為MicrosoftWord文檔
 
             '''
         while True: # 請選擇動作loo
@@ -146,7 +148,12 @@ def Start2022():
             Goto = input('請選擇動作\n')
 
 
-
+            # 更新工作表名稱
+            if Goto == '0':
+                # 讀取
+                表名 = input('請填寫工作表的新名稱\n')
+                wks.title = 表名
+                continue
 
 
             # 讀取工作表
@@ -168,8 +175,6 @@ def Start2022():
                 continue
 
 
-
-
             # 寫入一直欄
             if Goto == '3':
                 # 寫入
@@ -185,8 +190,6 @@ def Start2022():
                 continue
 
 
-
-
             # 刪除工作表內容
             if Goto == '4':
                 # 寫入
@@ -196,15 +199,11 @@ def Start2022():
                 continue
 
 
-        os.system("pause") 
-        #讀取
-        A1 = wks.cell(['b4:b6'])
-        A1.value
-        print('##################')
-        print(A1.value)
-        print('##################')
-
-
+            # 隱藏工作表
+            if Goto == '5':
+                # 隱藏
+                wks.hidden = True
+                continue
 
 
 
