@@ -19,7 +19,7 @@
 
 ## 一、Web框架
 
-1.Django:
+1.[Django](https://www.djangoproject.com/):
 
         開源web開發框架，它鼓勵快速開發，並遵循MVC設計，比較龐大，開發週期短。 
         Django的文檔最完善、市場佔有率最高、招聘職位最多。
@@ -27,17 +27,19 @@
         基本要什麼有什麼（比如：cache、session、feed、orm、geo、auth），而且全部Django自己造，開發網 站應手的工具Django基本都給你做好了，
         因此開發效率是不用說的，出了問題也算好找，不在你的代碼裡就在Django的源碼裡。
 
-2.web.py: 
+2.[web.py](https://webpy.org/): 
 
         輕量級Web框架，雖然簡單但是功能強大。
 
-3.Tornado:
+3.[Tornado](https://www.tornadoweb.org/en/stable/):
 
         Web服務器框架。 Tornado即是一個Web server，同時又是一個類web.py的micro-framework，作為框架，
         Tornado的思想主要來源於Web.py，沒有好的ORM，沒有session支持(雖然官方做法是用cookie代替)，WSGI支持不完整。
-        但好處就是它用非阻塞的事件驅動開發，性能不錯。並且自帶WEB服務器，拿來學習一個非阻塞方式WEB服務器工作原理很適合。因為不用再去讀nginx源碼了。
+        但好處就是它用非阻塞的事件驅動開發，性能不錯。
+        並且自帶WEB服務器，拿來學習一個非阻塞方式WEB服務器工作原理很適合。
+        因為不用再去讀nginx源碼了。
 
-4.Zope: 
+4.[Zope](https://www.zope.dev/): 
 
     開源的Web應用服務器。
 
