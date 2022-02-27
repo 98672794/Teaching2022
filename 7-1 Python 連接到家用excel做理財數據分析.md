@@ -17,6 +17,7 @@
 --
 
 
+[Mar 29 2017-Beginner’s Guide to Quantitative Trading I: Useful skills and where to find them](https://medium.com/auquan/a-beginners-guide-to-quantitative-trading-e6ed5d6b1c0d)
 
 
 
