@@ -43,6 +43,16 @@
         xlrd is a library for reading data and formatting information from Excel files in the historical .xls format.
         
         
+[xlwings](https://pypi.org/project/xlwings/)
+
+        - Excel調用Python
+        
+        xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa:
+
+                Scripting: Automate/interact with Excel from Python using a syntax that is close to VBA.
+                Macros: Replace your messy VBA macros with clean and powerful Python code.
+                UDFs: Write User Defined Functions (UDFs) in Python (Windows only).
+        
         
 [Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
 
@@ -69,7 +79,15 @@
         It is built on Python Pandas library.
         
         
+[numpy](https://numpy.org/)
 
+        - 科學計算
+        
+        The fundamental package for scientific computing with Python
+        
+        
+        
+        
 [matplotlib](https://pypi.org/project/matplotlib/)
 
         - 繪圖庫
@@ -85,15 +103,7 @@
             Embed in JupyterLab and Graphical User Interfaces.
             Use a rich array of third-party packages built on Matplotlib.
 
-[xlwings](https://pypi.org/project/xlwings/)
 
-        - Excel調用Python
-        
-        xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa:
-
-                Scripting: Automate/interact with Excel from Python using a syntax that is close to VBA.
-                Macros: Replace your messy VBA macros with clean and powerful Python code.
-                UDFs: Write User Defined Functions (UDFs) in Python (Windows only).
 
 [mplfinance](https://github.com/matplotlib/mplfinance#newapi)
 
@@ -101,10 +111,5 @@
 
         matplotlib utilities for the visualization, and visual analysis, of financial data
     
-    
-[numpy](https://numpy.org/)
-
-        - 科學計算
         
-        The fundamental package for scientific computing with Python
         
