@@ -21,6 +21,6 @@
 
 https://technical-analysis-library-in-python.readthedocs.io/en/latest/
 
-
+[matplotlib](https://pypi.org/project/matplotlib/)
 
 [xlwings](https://pypi.org/project/xlwings/)
