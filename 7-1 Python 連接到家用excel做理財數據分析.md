@@ -17,5 +17,10 @@
 --
 
 
-[]()
+[akshare](https://pypi.org/project/akshare/)
 
+https://technical-analysis-library-in-python.readthedocs.io/en/latest/
+
+
+
+[xlwings](https://pypi.org/project/xlwings/)
