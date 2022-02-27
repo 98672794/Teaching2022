@@ -52,13 +52,23 @@
 
 
 
-
---
-
-
 [akshare](https://pypi.org/project/akshare/)
 
+        - 財務數據介面庫
+        
+        AKShare is an elegant and simple financial data interface library for Python, 
+        built for human beings!
+
 [Technical Analysis Library](https://technical-analysis-library-in-python.readthedocs.io/en/latest/)
+
+        - 技術分析
+        
+        It is a Technical Analysis library to financial time series datasets
+        (open, close, high, low, volume). 
+        You can use it to do feature engineering from financial datasets. 
+        It is built on Python Pandas library.
+        
+        
 
 [matplotlib](https://pypi.org/project/matplotlib/)
 
