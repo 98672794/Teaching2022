@@ -19,8 +19,15 @@
 
 [akshare](https://pypi.org/project/akshare/)
 
-https://technical-analysis-library-in-python.readthedocs.io/en/latest/
+[Technical Analysis Library](https://technical-analysis-library-in-python.readthedocs.io/en/latest/)
 
 [matplotlib](https://pypi.org/project/matplotlib/)
 
 [xlwings](https://pypi.org/project/xlwings/)
+
+[mplfinance](https://github.com/matplotlib/mplfinance#newapi)
+
+    - matplotlib utilities for the visualization, and visual analysis, of financial data
+    
+    
+[numpy](https://numpy.org/)
