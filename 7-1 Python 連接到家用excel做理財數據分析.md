@@ -54,7 +54,7 @@
 
 [akshare](https://pypi.org/project/akshare/)
 
-        - 財務數據介面庫
+        - 財務數據分析
         
         AKShare is an elegant and simple financial data interface library for Python, 
         built for human beings!
@@ -72,11 +72,39 @@
 
 [matplotlib](https://pypi.org/project/matplotlib/)
 
+        - 繪圖庫
+        
+        Matplotlib is a comprehensive library for creating static, 
+        animated, and interactive visualizations in Python. 
+        Matplotlib makes easy things easy and hard things possible.
+
+            Create publication quality plots.
+            Make interactive figures that can zoom, pan, update.
+            Customize visual style and layout.
+            Export to many file formats .
+            Embed in JupyterLab and Graphical User Interfaces.
+            Use a rich array of third-party packages built on Matplotlib.
+
 [xlwings](https://pypi.org/project/xlwings/)
+
+        - Excel調用Python
+        
+        xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa:
+
+                Scripting: Automate/interact with Excel from Python using a syntax that is close to VBA.
+                Macros: Replace your messy VBA macros with clean and powerful Python code.
+                UDFs: Write User Defined Functions (UDFs) in Python (Windows only).
 
 [mplfinance](https://github.com/matplotlib/mplfinance#newapi)
 
-    - matplotlib utilities for the visualization, and visual analysis, of financial data
+        - 財務數據的可視化和可視化分析
+
+        matplotlib utilities for the visualization, and visual analysis, of financial data
     
     
 [numpy](https://numpy.org/)
+
+        - 科學計算
+        
+        The fundamental package for scientific computing with Python
+        
