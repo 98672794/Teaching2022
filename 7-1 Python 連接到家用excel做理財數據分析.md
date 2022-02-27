@@ -1,1 +1,17 @@
 7-1 Python 連接到家用excel做理財數據分析.md
+
+
+
+[openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+
+[XlsxWriter](https://pypi.org/project/XlsxWriter/)
+
+[Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
+
+[xlrd](https://pypi.org/project/xlrd/)
+
+[xlwt](https://pypi.org/project/xlwt/)
+
+
+
+
